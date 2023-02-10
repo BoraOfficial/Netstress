@@ -7,7 +7,7 @@ A powerful network stresser with a built-in GUI & collaboration system
 # Features:
 <ul>
 <li>Team Collaboration</li>
-<i>You can <b>DDoS servers</b> with your <b>friends</b>!</i>
+<i>You can <b>Pentest servers using DDoS</b> with your <b>friends</b>!</i>
 <li>Powerful Attackers</li>
 <i>It uses <b>Goldeneye</b> written in <b>Python</b> to make servers struggle!</i>
 <li>User-Friendly GUI</li>
