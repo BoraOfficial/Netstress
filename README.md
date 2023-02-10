@@ -15,6 +15,25 @@ A powerful network stresser with a built-in GUI & collaboration system
 </ul>
 
 ---
+# How to use?
+
+You need [Node.js](https://nodejs.org) installed on your computer, this is just for the server and is not neccessary for your friends to download it.
+
+After you've downloaded [Node.js](https://nodejs.org), simply open up your terminal and paste this:
+
+```
+node index.js
+```
+
+This will start a local server on port 3000
+
+If you're going to use this with your friends, you have to do some port-forwarding and you have to change the source code of <b>vs-ui</b>.
+
+After that, you're basically done! Now you can either compile it yourself or download the GUI from the [Releases Page](https://github.com/BoraOfficial/Netstress/releases/)
+
+<b>Good luck in your cybersecurity journey!</b>
+
+---
 # LICENSE
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
