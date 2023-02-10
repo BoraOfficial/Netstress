@@ -1,0 +1,11 @@
+C:\Users\Bora\source\repos\Booter\Booter\bin\Debug\Booter.exe.config
+C:\Users\Bora\source\repos\Booter\Booter\bin\Debug\Booter.exe
+C:\Users\Bora\source\repos\Booter\Booter\bin\Debug\Booter.pdb
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.csproj.AssemblyReference.cache
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.Form1.resources
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.Properties.Resources.resources
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.csproj.GenerateResource.cache
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.csproj.CoreCompileInputs.cache
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.exe
+C:\Users\Bora\source\repos\Booter\Booter\obj\Debug\Booter.pdb
