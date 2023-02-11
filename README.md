@@ -49,3 +49,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 </ul>
 <br>
 This license applies to the Netstress Software and all its components, including any updates, modifications, or derivative works. By using the software, you agree to be bound by the terms of this license.
+
+---
+# TAGS
+
+network, wifi, stresser, ddos, dos, denial of service, distributed denial of service, LOIC, network stresser, attack, wireless, network stresser, stress, network, internet, network, wifi, stresser, ddos, dos, denial of service, distributed denial of service, LOIC, network stresser, attack, wireless, network stresser, stress, network, internet, network, stresser, ddos, dos, denial of service, distributed denial of service, LOIC, network stresser, attack, wireless, network stresser, stress, network, internet
